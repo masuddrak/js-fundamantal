@@ -1,5 +1,4 @@
 let a=20;
-a=33;
-console.log(a)
-const b=30;
-b=60;
+let b=30;
+let result=a-b;
+// console.log(result)

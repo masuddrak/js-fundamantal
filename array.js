@@ -1,0 +1,12 @@
+let name=["anis","afrin","sweety"];
+console.log(name.indexOf("afrin"))
+// console.log(name[2])
+
+let num=[1,23,4,5,6]
+// console.log(num)
+// console.log(num.indexOf(4))
+// console.log(num.indexOf(42))
+// console.log(num[3])
+// console.log(num[32])
+num[4]=25;
+// console.log(num)
